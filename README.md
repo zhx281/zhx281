@@ -6,11 +6,11 @@ My goal is to deepen my knowledge in machine learning and apply it creatively to
 
 ### 🛠️ Skills
 - **Programming Languages:** Python
-- 
+
 - **ML & Data Science Libraries:** NumPy, Pandas, TensorFlow, PyTorch, Keras
-- 
+
 - **Development Environment:** Jupyter Notebook
-- 
+
 - **Additional Experience:** Frontend and Backend development
 
 ### 🌱 Current Learning Focus
